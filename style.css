@@ -1,0 +1,19 @@
+h1 {
+    width: 100%;
+    text-align: left;
+    display: inline;
+}
+#instrucciones {
+    float: right;
+    border: 2px solid white;
+
+}
+.portada{
+    width: 100%;
+}
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position:center ;
+    padding: 25px;
+}
